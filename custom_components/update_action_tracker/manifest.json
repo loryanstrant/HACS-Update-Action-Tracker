@@ -9,5 +9,5 @@
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/loryanstrant/HACS-Update-Action-Tracker/issues",
   "requirements": [],
-  "version": "0.2.0"
+  "version": "1.0.1"
 }
