@@ -7,7 +7,7 @@ from pathlib import Path
 from homeassistant.const import Platform
 
 DOMAIN = "update_action_tracker"
-VERSION = "0.1.1"
+VERSION = "1.0.1"
 
 PLATFORMS: list[Platform] = [Platform.TODO]
 
