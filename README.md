@@ -1,8 +1,6 @@
 # HACS Update Action Tracker
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/release/loryanstrant/HACS-Update-Action-Tracker.svg)](https://github.com/loryanstrant/HACS-Update-Action-Tracker/releases)
-[![License: MIT](https://img.shields.io/github/license/loryanstrant/HACS-Update-Action-Tracker)](LICENSE)
+UPDATE: This functionality has been incorporated into the existing [Custom Component Monitor integration](https://github.com/loryanstrant/HA-CustomComponentMonitor).
 
 
 ## Overview
